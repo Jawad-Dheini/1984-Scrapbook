@@ -1,0 +1,304 @@
+#outer-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/* Page 1 */
+
+#page-1 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+/* Page 2 */
+
+#page-2 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#inner-div-2 {
+  background-color: white;
+  width: 500px;
+}
+
+#down-w-bb {
+  font-size: 59px;
+  font-family: "Amatic SC", cursive;
+  padding-left: 10px;
+}
+
+/* Page 3 */
+
+#page-3 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#inner-div-3 {
+  background-color: white;
+  width: 440px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#london-1984 {
+  width: 350px;
+  margin-top: 10px;
+}
+
+#london-text {
+  font-family: "Amatic SC", cursive;
+  font-size: 48px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Page 4 */
+
+#page-4 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#page-4-top {
+  background-color: white;
+  font-family: "Amatic SC", cursive;
+  font-size: 36px;
+  padding: 16px 30px;
+}
+
+#page-4-top p {
+  margin: 0;
+}
+
+#inner-div-4 {
+  background-color: white;
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#julia {
+  width: 350px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#page-4-bottom {
+  background-color: white;
+  font-family: "Amatic SC", cursive;
+  font-size: 36px;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+#page-4-bottom p {
+  margin: 0;
+}
+
+/* Page 5 */
+
+#page-5 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#inner-div-5 {
+  background-color: white;
+  width: 375px;
+  height: 590px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#flag {
+  height: 350px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  transform: rotate(90deg);
+}
+
+/* Page 6 */
+
+#page-6 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#inner-div-6 {
+  background-color: white;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 100px;
+}
+
+#torture-room {
+  width: 325px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#betrayal-text {
+  font-family: "Amatic SC", cursive;
+  font-size: 42px;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+/* Page 7 */
+
+#page-7 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#inner-div-7-img {
+  background-color: white;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+}
+
+#inner-div-7-txt {
+  background-color: white;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 16px;
+  margin-top: 0px;
+  transform: rotate(-1deg);
+}
+
+#inner-div-7-txt p {
+  font-family: "Amatic SC", cursive;
+  font-size: 32px;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  padding-left: 10px;
+}
+
+/* Page 8 */
+
+#page-8 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#page-8 img {
+  height: 310px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  transform: rotate(-90deg);
+  margin-left: 100px;
+}
+
+/* Page 9 */
+
+#page-9 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#page-9 img {
+  height: 420px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  transform: rotate(-90deg);
+}
+
+/* Page 10 */
+
+#page-10 {
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 540px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+
+#next-btn {
+  padding: 10px 30px;
+  background-color: #383838;
+  color: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  text-transform: capitalize;
+  margin-left: calc(50% - 44px);
+  margin-top: 20px;
+  border-radius: 4px;
+}
