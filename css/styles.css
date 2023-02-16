@@ -290,6 +290,15 @@
   margin-right: 10px;
 }
 
+#poem {
+  color: white;
+  font-family: "Amatic SC", cursive;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  padding-left: 10px;
+}
+
 #next-btn {
   padding: 10px 30px;
   background-color: #383838;
